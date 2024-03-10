@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Information Security | DevOps | Data Science
+
+I'm currently working on building out my social media presence and my portfolio, please check back in a while!
+
+In the meantime you should ask me how I got my handle, it's a surprisingly wholesome story.
+
 <!--
 **CMDerCatnip/CMDerCatnip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
