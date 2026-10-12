@@ -2,7 +2,7 @@
 
 Information Security | DevOps | Data Science
 
-I'm currently working on building out my social media presence and my portfolio, please check back in a while!
+I'm currently working on building out my portfolio, please check back in a while!
 
 In the meantime you should ask me how I got my handle, it's a surprisingly wholesome story.
 
